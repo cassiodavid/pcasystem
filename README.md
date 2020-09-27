@@ -43,7 +43,7 @@ API REST Protótipo de sistema com o objetivo de gerenciar os recursos hospitala
 
 
 
-### Descriçes dos serviços de relatorios, recursos e dados sobre ocupações.
+### Descrições dos serviços de relatorios, recursos e dados sobre ocupações.
 - GET / RELATORIO /
     - Retorna uma Lista de Hospitais cadastrados no banco de dados
     
